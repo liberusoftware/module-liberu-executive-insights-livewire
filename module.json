@@ -2,7 +2,7 @@
   "name": "liberu-executive-insights-livewire",
   "display_name": "Liberu ExecutiveInsights livewire",
   "description": "One-to-one livewire adapter for Liberu ExecutiveInsights.",
-  "version": "1.1.3",
+  "version": "1.2.0",
   "category": "presentation",
   "provider": "Liberu\\Platform\\ExecutiveInsights\\Livewire\\ExecutiveInsightsLivewireServiceProvider",
   "requires": {
